@@ -11,7 +11,7 @@ import streamlit as st
 
 # Insert the data
 
-movies_data = pd.read_csv("C:/Users/amany/Desktop/DataScience_Projects/Bollywood Movie Recommendation Model/BollywoodMovieDetail.csv")
+movies_data = pd.read_csv("BollywoodMovieDetail.csv")
 
 # Now Convert Some Column into desired specificaton
 
