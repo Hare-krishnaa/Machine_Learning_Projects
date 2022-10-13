@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Delhi_Home_Prediction_Model.py
