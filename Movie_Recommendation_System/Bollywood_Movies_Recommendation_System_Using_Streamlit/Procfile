@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Movie_Recommendatin_system.py
